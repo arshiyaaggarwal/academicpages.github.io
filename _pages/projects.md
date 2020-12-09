@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <ul>
-{% for post in site.data.publications reversed %}
-  {% include archive-single-publication.html %}
+{% for post in site.data.projects %}
+  {% include archive-single-project.html %}
 {% endfor %}
 </ul>

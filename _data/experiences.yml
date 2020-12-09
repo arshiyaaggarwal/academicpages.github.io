@@ -1,0 +1,63 @@
+- title: "Adobe"
+  description:
+    - "Responsible for development of <b>Adobe Scan</b> & its image processing library MagicClean serving ~22.7 million monthly active users with over 50 million downloads. Integrated ML model and exposed API for document classification and text region detection."
+    - "<i>Hackweek 2020:</i> In a team of 5, implemented ML models for Adobe Scan to perform dewarping to remove scan curvature, handwriting stylisation, removal of scan artefacts like thumbs. Also designed an interpretable ML model for <b>aspect based sentiment analysis</b> of customer comments on Acrobat using LDA for topic modelling & BERT for sentiment analysis. Won honourable mention for 2 hacks."
+    - "Collaborated with the Magento team to work on data to text <b>natural language generation</b> using seller provided product details. Generated descriptions using the T5 transformer  while controlling the linguistic style aspects based on buyer preference."
+  position: "Software Development Engineer"
+  duration: "June 2019 - Present"
+
+- title: "MIDAS Lab, IIITD"
+  description:
+    - "Researched on fusion of audio-text contextual embeddings from CEO's speeches and used <b>cross-modal attention fusion</b> of <b>Financial BERT text embeddings</b> and audio contextual features to predict average and single day volatility in a <b>multi-task setup</b>."
+    - "Analysed the importance of leveraging the stock interrelations using graph nodes for stocks and earning calls and edges for wiki-data stock relations. Used <b>semi-supervised Graph Convolutional Networks</b> to extract the relational embeddings."
+    - "Empirically analysed <b>gender bias</b> in volatility prediction from mutli-modal data in CEO's speeches during quarterly Earnings Calls."
+  position: "NLP Researcher"
+  duration: "April 2020 - Present"
+
+- title: "Mentor Together"
+  description:
+    - "Mentoring a girl belonging to a low-income background from a small town of India on topics like vision setting, planning, decision making & job interviews"
+  position: "Mentor"
+  duration: "October 2020 - Present"
+
+- title: "Delhi Technological University"
+  description:
+    - "Researched on bio-medical image processing and skin cancer lesion images to propose an algorithm to detect & classify skin cancer at an early stage using Attention-Guided Deep CNNs."
+    - "Researched power quality disturbances to ensure reliable quality of power and classified them in voltage signals. Implemented an algorithm to classify disturbance events like voltage sag, swell, transients, harmonics, etc. using features extracted from CNN and Support Vector Classifier"
+  position: "Undergraduate Research Assistant"
+  duration: "Aug 2018 - March 2019"
+
+- title: "Nagarro Software"
+  description:
+    - "Implemented an image searching algorithm to find the most visually similar clothing items from a catalogue for an e-commerce client."
+    - "Researched object detection techniques including <b>MaskRCNN</b>, Fast and <b>FasterRCNN</b>. Used FasterRCNN in <b>Tensorflow</b> to detect and crop the item of interest from the query image."
+    - "Used <b>Image Deep Ranking</b> to train image similarity models on different categories of clothing items to understand the fine similarities between items using <b>Keras</b>."
+  position: "Deep Learning Intern"
+  duration: "June 2018 - Aug 2018"
+
+- title: "Coding Ninjas"
+  description:
+    - "Supported students in interview preparation on <b>data structures & algorithms in C++</b>, operating systems and DBMS."
+    - "Monitored progress and provided regular feedback to a group of 20 students including regular online support for doubts."
+  position: "Teaching Assistant"
+  duration: "June 2018 - Sept 2018"
+
+- title: "Indraprastha Institute of Information Technology (IIITD)"
+  description:
+    - "Proposed a model for surveillance using person re-identification to predict if two given videos are of the same person."
+    - "Trained a <b>Siamese architecture</b> with LSTM’s, <b>CapsuleNets</b> and dynamic routing based on agreement in <b>Pytorch</b> and plotted the results as cumulative matching curves."
+  position: "Undergraduate Research Assistant"
+  duration: "Dec 2017 - May 2018"
+
+- title: "Faculty of Management Studies, Delhi University"
+  description:
+    - "Proposed a machine learning based model to forecast the next day closing price of the Dow Jones Index."
+    - "Analysed various models including LSTM’s, 1D convolutions and dilated convolutions against the traditional models for financial time series forecasting."
+  position: "Research Intern"
+  duration: "May 2017 - Aug 2017"
+
+- title: "Newgen Software Technologies"
+  description:
+    - "Designed and developed a web app with multi purpose business processing forms interlinked at various work steps that enables business stakeholders to make digital transformations in their operations."
+  position: "Software Development Intern"
+  duration: "June 2017 - July 2017"

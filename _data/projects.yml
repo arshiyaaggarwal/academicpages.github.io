@@ -1,0 +1,23 @@
+- title: "MouseEye"
+  description: "A utility application that allows differently abled users to interact with interfaces by performing mouse-clicks using eye blinks. It detects the facial landmarks & calculates the eye aspect ratio using dlib's landmark detector implemented using Histogram of Gradients and linear SVM. Developed using OpenCV."
+  link: https://github.com/arshiyaaggarwal/MousEye
+
+- title: "Mobile Scan App"
+  description: "Implemented a document scanner using OpenCV to convert snapshots of real world documents into clear, sharp multi-page PDF’s. Detects the largest contours in the user input image and performs an affine transform to warp the image to a rectangle. After that, thresholding is performed to make the document clearer giving it the digital touch."
+  link: https://github.com/arshiyaaggarwal/CamScanner
+
+- title: "Movie Review Sentiment Analysis"
+  description: "Implemented text analysis using a combination of CNNs and LSTMs to classify sentiment in movie reviews trained on the IMDb dataset."
+  link: https://github.com/arshiyaaggarwal/Sentiment-Analysis-of-movie-reviews
+
+- title: "Facial Expression Recognition System"
+  description: "Created an image classifier to classify facial expressions in photos into 7 classes like happy, sad, angry etc. Applied convolutional neural networks (CNNs) that achieved an accuracy of 63%. This can be integrated with other pipelines like music generation, to generate music based on mood."
+  link: https://github.com/arshiyaaggarwal/Facial-Expression-Recognition-System
+
+- title: "Dimensionality Reduction: Linear v/s Deep Learning methods"
+  description: "A comparison between PCA and deep learning based Autoencoders for dimensionality reduction on the MNIST dataset. Autoencoders performed better reconstructions and proved to be effective tools for reducing the dimensions from 784 to 64."
+  link: https://github.com/arshiyaaggarwal/PCA-vs-Autoencoders
+
+- title: "Financial Time Series Forecasting"
+  description: "A model that predicts the next day closing price of the Dow Jones Industrial Index using a combination of Dilated Causal Convolutions & LSTMs that achieves an MSE of 0.000164."
+  link: https://github.com/arshiyaaggarwal/Stock-Market-Price-Prediction

@@ -1,0 +1,33 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "archive" }}__item" style="margin-bottom: 2em">
+  <li class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div style="display: flex;justify-content: space-between;">
+      <div>
+        <h3 style="margin: 0.5em">{{ title }} </h3>
+        <p style="margin: 0.5em; font-size:16px">{{post.position}}</p>
+      </div>
+      <p style="margin: 0.5em; font-size:16px"><i>{{post.duration}}</i></p>
+    </div>
+    <ul>
+      {% for item in post.description %}
+        <li style="font-size:16px">
+          {{item}}
+        </li>
+      {% endfor %}
+    </ul>
+    <!-- <p class="archive__item-excerpt">  {{ post.description | markdownify }} </p> -->
+  </li>
+</div>

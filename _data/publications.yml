@@ -1,0 +1,25 @@
+- title: "Financial time-series forecasting: from neural networks to dilated convolutions"
+  citation: '<i>Proceedings of 78th Annual Meeting of the Academy of Management, Aug 2018, Chicago, Illinois, United States (<b>AOM 2018</b>) (hal-02337821)</i>'
+  authors: 'Bhumika Gupta, Monica Singhania, Arshiya Aggarwal'
+  link: https://hal.archives-ouvertes.fr/hal-02337821/
+
+- title: "Attention-Guided Deep Convolutional Neural Networks for Skin Cancer Classification"
+  authors: 'Arshiya Aggarwal, Nisheet Das, Indu Sreedevi'
+  citation: '<i>Proceedings of 9th International Conference on Image Processing Theory, Tools and Applications (<b>IEEE-IPTA 2020</b>) (pp. 1-6)</i>'
+  link: https://drive.google.com/file/d/1GzEr-Zm7pWzQd9HQNQtaYoiM2fzelURi/view
+
+- title: "A Novel Hybrid Architecture for Classification of Power Quality Disturbances"
+  authors: 'Arshiya Aggarwal, Nisheet Das, Mansi Arora, M.M. Tripathi'
+  link: https://drive.google.com/file/d/14qtrSIWNhGKqkyzqfabFa8hT3oPmnp0K/view
+  citation: '<i>Proceedings of 6th International Conference on Control, Decision and Information Technologies (<b>IEEE-CoDIT 2019</b>)</i>'
+
+- title: "Risk Forecasting from Earnings Calls Acoustics and Network Correlations"
+  authors: 'Ramit Sawhney, Arshiya Aggarwal, Piyush Khanna, Puneet Mathur, Taru Jain, Rajiv Ratn Shah'
+  citation: '<i>Proceedings of <b>Interspeech 2020</b>, (pp. 2307-2311)</i>'
+  link: http://www.interspeech2020.org/uploadfile/pdf/Wed-1-8-7.pdf
+
+- title: "VolTAGE: Volatility Forecasting via Text-Audio Fusion with Graph Convolution Networks for Earnings Calls."
+  authors: 'Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur, Rajiv Ratn Shah'
+  citation: '<i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2020</b>), (pp. 8001-8013)</i>'
+  link: https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf
+
