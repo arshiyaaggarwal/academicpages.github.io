@@ -16,10 +16,12 @@ My research interests lie at the intersection of Deep Learning and Natural Langu
 
 News
 ------
-- Presented [paper](https://virtual.2020.emnlp.org/paper_main.2520.html) at EMNLP 2020
-- Volunteered at EMNLP 2020 as a sponsor liaison to help set up virtual booths and the conference website
-- Received honourable mention for 2 hacks at Adobe's Hackweek 2020 : Book scan curvature removal and aspect-based sentiment analysis on Acrobat NPS data
-- 2 patents filed as a part of collaborative research at Adobe
-- Presented [paper](http://www.interspeech2020.org/uploadfile/pdf/Wed-1-8-7.pdf) at Interspeech 2020
-- Best Project Award at Python training bootcamp at Adobe
-- Class rank 2 in Electronics and Electrical Engineering at Delhi Technological University
+- <b>January 2021</b> : Promoted to Senior Software Development Engineer at Adobe
+- <b>November 2020</b> : Presented long [paper](https://virtual.2020.emnlp.org/paper_main.2520.html) at EMNLP 2020
+- <b>November 2020</b> : Received honourable mention for 2 hacks at Adobe's Hackweek 2020. One for <i>book scan curvature removal</i> and other for <i>aspect-based sentiment analysis on Acrobat's user review (Net Promoter Score) data</i>
+- <b>Oct-Nov 2020</b> : Volunteered at EMNLP 2020 as a sponsor liaison to help set up virtual booths and the conference website
+- <b>October 2020</b> : Presented full [paper](http://www.interspeech2020.org/uploadfile/pdf/Wed-1-8-7.pdf) at Interspeech 2020
+- <b>October 2020</b> : US Patent Ref# P9928-US filed as a part of collaborative research at Adobe titled <i>Identity Obfuscation In Images Utilizing Synthesized Faces</i>
+- <b>September 2020</b> : US Patent Ref# P9838-US filed as a part of collaborative research at Adobe titled <i>Machine Learning Techniques For Differentibility Scoring Of Digital Images</i>
+- <b>December 2019</b> : Best Project Award at Python training bootcamp at Adobe
+- <b>June 2019</b> : Graduated Delhi Technological University with <i>department rank 2</i> in Electronics and Electrical Engineering

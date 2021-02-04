@@ -3,7 +3,7 @@
     - "Responsible for development of <b>Adobe Scan</b> & its image processing library MagicClean serving ~22.7 million monthly active users with over 50 million downloads. Integrated ML model and exposed API for document classification and text region detection."
     - "<i>Hackweek 2020:</i> In a team of 5, implemented ML models for Adobe Scan to perform dewarping to remove scan curvature, handwriting stylisation, removal of scan artefacts like thumbs. Also designed an interpretable ML model for <b>aspect based sentiment analysis</b> of customer comments on Acrobat using LDA for topic modelling & BERT for sentiment analysis. Won honourable mention for 2 hacks."
     - "Collaborated with the Magento team to work on data to text <b>natural language generation</b> using seller provided product details. Generated descriptions using the T5 transformer  while controlling the linguistic style aspects based on buyer preference."
-  position: "Software Development Engineer"
+  position: "Software Development Engineer-2"
   duration: "June 2019 - Present"
 
 - title: "MIDAS Lab, IIITD"
