@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an ML Engineer at Adobe where I ideate, develop, optimize and deploy Machine Learning models for Adobe Scan. I graduated from Delhi Technological University in Electronics and Electrical Engineering. I have a keen interest in research in Natural Language Processing and am intrigued by the insights that can be gleaned from data.
+I'm a Senior Software Development Engineer at Adobe where I ideate, develop, optimize and deploy Machine Learning models for Adobe Scan. I graduated from Delhi Technological University in Electronics and Electrical Engineering. I have a keen interest in research in Natural Language Processing and am intrigued by the insights that can be gleaned from data.
 
 Research
 ======
