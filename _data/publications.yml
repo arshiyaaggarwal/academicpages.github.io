@@ -23,3 +23,7 @@
   citation: '<i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2020</b>), (pp. 8001-8013)</i>'
   link: https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf
 
+- title: "An Empirical Investigation of Bias in the Multimodal Analysis of Financial Earnings Calls."
+  authors: 'Ramit Sawhney, Arshiya Aggarwal, Rajiv Ratn Shah'
+  citation: '<i>Accepted at the 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL-HLT 2021</b>)</i>'
+

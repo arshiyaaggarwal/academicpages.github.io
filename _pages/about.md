@@ -16,6 +16,7 @@ My research interests lie at the intersection of Deep Learning and Natural Langu
 
 News
 ------
+- <b>March 2021</b> : Short paper accepted at NAACL 2021
 - <b>January 2021</b> : Promoted to Senior Software Development Engineer at Adobe
 - <b>November 2020</b> : Presented long [paper](https://virtual.2020.emnlp.org/paper_main.2520.html) at EMNLP 2020
 - <b>November 2020</b> : Received honourable mention for 2 hacks at Adobe's Hackweek 2020. One for <i>book scan curvature removal</i> and other for <i>aspect-based sentiment analysis on Acrobat's user review (Net Promoter Score) data</i>
