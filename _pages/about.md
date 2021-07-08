@@ -12,10 +12,11 @@ I'm a Software Development Engineer-2 at Adobe where I ideate, develop, optimize
 
 Research
 ======
-My research interests lie at the intersection of Deep Learning and Natural Language Processing. My goal is to build interpretable deep learning models that are more conducive to reducing societal bias. My research at MIDAS Lab was focused in NLP where I published papers at top conferences including EMNLP and Interspeech.
+My research interests lie at the intersection of Deep Learning and Natural Language Processing. My goal is to build interpretable deep learning models that are more conducive to reducing societal bias. My research at MIDAS Lab was focused in NLP where I published papers at top conferences including EMNLP, Interspeech and NAACL.
 
 News
 ------
+- <b>March 2021</b> : Poster on <i>semantic segmentation of occlusions in scanned documents</i> accepted at Adobe's TechSummit 2021
 - <b>March 2021</b> : Paper on multimodal bias accepted at NAACL-HLT 2021
 - <b>January 2021</b> : Promoted to Software Development Engineer-2 at Adobe
 - <b>November 2020</b> : Presented long [paper](https://virtual.2020.emnlp.org/paper_main.2520.html) at EMNLP 2020

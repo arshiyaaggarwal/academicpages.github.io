@@ -12,7 +12,7 @@
     - "Analysed the importance of leveraging the stock interrelations using graph nodes for stocks and earning calls and edges for wiki-data stock relations. Used <b>semi-supervised Graph Convolutional Networks</b> to extract the relational embeddings."
     - "Empirically analysed <b>gender bias</b> in volatility prediction from mutli-modal data in CEO's speeches during quarterly Earnings Calls."
   position: "NLP Researcher"
-  duration: "April 2020 - Present"
+  duration: "April 2020 - April 2021"
 
 - title: "Mentor Together"
   description:
